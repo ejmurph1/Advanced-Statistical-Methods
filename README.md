@@ -10,4 +10,6 @@ Data Analysis and Regression
   - Multi-collinearity and influential observations (Hair chap 2) 
   - Model building and variable selection methods 
   - Model validation methods 
-  - Computing predictions and prediction errors 
+  - Computing predictions and prediction errors
+
+Resources: https://scikit-learn.org/stable/modules/linear_model.html
